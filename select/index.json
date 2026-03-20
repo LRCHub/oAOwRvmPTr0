@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "For Your Gift",
+  "base_artist": "yrmare",
+  "createdAt": "2026-03-20T07:08:53.714867Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "For Your Gift (feat. 湊いつき)",
+      "artist": "yrmare",
+      "has_synced": false,
+      "path": "select/pl_01_For_Your_Gift_(feat._湊いつき)_yrmare.txt"
+    }
+  ]
+}
